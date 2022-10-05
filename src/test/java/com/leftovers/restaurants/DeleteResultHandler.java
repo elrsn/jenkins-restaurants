@@ -1,3 +1,4 @@
+/*
 package com.leftovers.restaurants;
 
 import lombok.extern.slf4j.Slf4j;
@@ -30,3 +31,4 @@ public class DeleteResultHandler implements ResultHandler {
         repository.delete(o.get());
     }
 }
+ */
